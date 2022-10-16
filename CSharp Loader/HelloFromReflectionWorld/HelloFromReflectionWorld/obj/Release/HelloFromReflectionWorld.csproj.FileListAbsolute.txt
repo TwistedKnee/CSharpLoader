@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\bin\Release\HelloFromReflectionWorld.exe.config
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\bin\Release\HelloFromReflectionWorld.exe
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\bin\Release\HelloFromReflectionWorld.pdb
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\obj\Release\HelloFromReflectionWorld.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\obj\Release\HelloFromReflectionWorld.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\obj\Release\HelloFromReflectionWorld.exe
+C:\Users\User\source\repos\HelloFromReflectionWorld\HelloFromReflectionWorld\obj\Release\HelloFromReflectionWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Raditz\Raditz\bin\Debug\Raditz.exe.config
+C:\Users\User\source\repos\Raditz\Raditz\bin\Debug\Raditz.exe
+C:\Users\User\source\repos\Raditz\Raditz\bin\Debug\Raditz.pdb
+C:\Users\User\source\repos\Raditz\Raditz\obj\Debug\Raditz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Raditz\Raditz\obj\Debug\Raditz.exe
+C:\Users\User\source\repos\Raditz\Raditz\obj\Debug\Raditz.pdb
