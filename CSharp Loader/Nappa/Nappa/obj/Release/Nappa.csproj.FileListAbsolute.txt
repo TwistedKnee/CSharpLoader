@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\bin\Release\Nappa.exe.config
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\bin\Release\Nappa.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\bin\Release\Nappa.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\obj\Release\Nappa.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\obj\Release\Nappa.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\obj\Release\Nappa.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Nappa\Nappa\obj\Release\Nappa.pdb
