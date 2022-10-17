@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\bin\Release\Cell.exe.config
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\bin\Release\Cell.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\bin\Release\Cell.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\obj\Release\Cell.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\obj\Release\Cell.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\obj\Release\Cell.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Cell\Cell\obj\Release\Cell.csprojAssemblyReference.cache
