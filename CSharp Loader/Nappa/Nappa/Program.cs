@@ -20,7 +20,7 @@ namespace Nappa
         }
         static void Main(string[] args)
         {
-            ReflectFromWeb(@"http://192.168.64.138:8080/HelloReflectionWorld.exe");
+            ReflectFromWeb("http://192.168.64.138/HelloFromReflectionWorld.exe");
         }
     }
 }
