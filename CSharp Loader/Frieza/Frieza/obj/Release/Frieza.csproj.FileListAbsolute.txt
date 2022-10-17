@@ -4,3 +4,4 @@ C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Frieza\Frieza\bin\Rele
 C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Frieza\Frieza\obj\Release\Frieza.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Frieza\Frieza\obj\Release\Frieza.exe
 C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Frieza\Frieza\obj\Release\Frieza.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\Frieza\Frieza\obj\Release\Frieza.csprojAssemblyReference.cache

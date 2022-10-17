@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\bin\Release\mscorlib.exe.config
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\bin\Release\mscorlib.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\bin\Release\mscorlib.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\obj\Release\mscorlib.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\obj\Release\mscorlib.exe
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\obj\Release\mscorlib.pdb
+C:\Users\User\Documents\GitHub\CSharpLoader\CSharp Loader\mscorlib\mscorlib\obj\Release\mscorlib.csprojAssemblyReference.cache
